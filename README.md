@@ -2,4 +2,4 @@
 <br>I have passed the test fulfilling all the user stories</br>
 <br>For testing the live app: https://url-shortapp.glitch.me</br>
 <br>For code: https://glitch.com/edit/#!/url-shortapp</br>
-<br>Suggestions are most welcomed</br>
+
